@@ -1,1 +1,1 @@
-#Solutions for Various Problems On CodeChef and CodeForces
+Solutions for Various Problems On CodeChef and CodeForces
